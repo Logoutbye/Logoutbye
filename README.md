@@ -1,11 +1,11 @@
-[![MasterHead](https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif)]
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Bilal Muhammad</h1>
 <h3 align="center">A passionate Mobile App developer with expertise in Flutter.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.websutility.com/new_images/flutter-app-course.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logoutbye" alt="logoutbye" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=logoutbye&label=Profile%20views&color=0e75b6&style=flat" alt="logoutbye" /> </p>
 
-- 🔭 I've built a diverse range of apps [For Kawiish It Services](https://play.google.com/store/apps/developer?id=Kashif+Mushtaq)
+- 🛠️ I've built a diverse range of apps for [Kawiish It Services](https://play.google.com/store/apps/developer?id=Kashif+Mushtaq)
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-website-a75e2.web.app/#/](https://my-portfolio-website-a75e2.web.app/#/)
 
@@ -24,5 +24,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=logoutbye&show_icons=true&locale=en&layout=compact" alt="logoutbye" /></p>
