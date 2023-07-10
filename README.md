@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logoutbye&label=Profile%20views&color=0e75b6&style=flat" alt="logoutbye" /> </p>
 
-- 🛠️ I've built a diverse range of apps for [Kawiish It Services](https://play.google.com/store/apps/developer?id=Kashif+Mushtaq)
+- 🛠️ I've built a diverse range of apps for [Spider Technology](https://play.google.com/store/apps/dev?id=6910989262027202013)
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-website-a75e2.web.app/#/](https://my-portfolio-website-a75e2.web.app/#/)
 
