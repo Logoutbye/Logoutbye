@@ -16,7 +16,6 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1o1Dy7k20_loDuFq7bQRmCnustrXwwS9d/edit?usp=sharing&ouid=116692721153719225426&rtpof=true&sd=true](https://docs.google.com/document/d/1o1Dy7k20_loDuFq7bQRmCnustrXwwS9d/edit?usp=sharing&ouid=116692721153719225426&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I bring laughter and lightheartedness to my work as a mobile app developer.**
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="logoutbye" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/logoutbye?trk=profile-badge">Bilal Muhammad</a></div>
               
 <h3 align="left">Connect with me:</h3>
 <p align="left">
