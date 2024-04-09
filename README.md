@@ -1,63 +1,38 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bilal Muhammad - GitHub Page</title>
-    <!-- Add any other meta tags, stylesheets, or scripts here -->
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f8f9fa;
-            color: #333;
-        }
+To enhance the design and make it more visually appealing, you can use GitHub-flavored markdown combined with HTML and CSS styles. Here's a more styled version of your README.md with a LinkedIn badge and improved formatting:
 
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+```markdown
+<!-- Add your name and introduction -->
+# Hi there, I'm Bilal Muhammad 👋
+## A passionate Mobile App developer with expertise in Flutter.
 
-        .header {
-            text-align: center;
-            margin-bottom: 20px;
-        }
+<!-- Add your profile views -->
+![Profile Views](https://komarev.com/ghpvc/?username=logoutbye&label=Profile%20views&color=0e75b6&style=flat)
 
-        .badge-container {
-            text-align: center;
-            margin-bottom: 40px;
-        }
+<!-- Add your achievements and information -->
+- 🛠️ I've built a diverse range of apps for [Spider Technology](https://play.google.com/store/apps/dev?id=6910989262027202013)
+- 👨‍💻 All of my projects are available at [my portfolio website](https://my-portfolio-website-a75e2.web.app/#/)
+- 💬 Ask me about **Flutter**
+- 📫 How to reach me: [muhammadbilal03478@gmail.com](mailto:muhammadbilal03478@gmail.com)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1o1Dy7k20_loDuFq7bQRmCnustrXwwS9d/edit?usp=sharing&ouid=116692721153719225426&rtpof=true&sd=true)
+- ⚡ Fun fact: **I bring laughter and lightheartedness to my work as a mobile app developer.**
 
-        .social-icons {
-            text-align: center;
-            margin-bottom: 40px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="header">
-            <h1>Hi 👋, I'm Bilal Muhammad</h1>
-            <h3>A passionate Mobile App developer with expertise in Flutter.</h3>
-        </div>
+<!-- Add LinkedIn badge -->
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bilal-muhammad-62a852255/)
 
-        <div class="badge-container">
-            <!-- LinkedIn Badge -->
-            <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="bilal-muhammad-62a852255" data-version="v1">
-                <a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/bilal-muhammad-62a852255?trk=profile-badge">Bilal Muhammad</a>
-            </div>
-            <script async src="https://platform.linkedin.com/badges/js/profile.js" charset="utf-8"></script>
-        </div>
+<!-- Add a separator for better visual -->
+---
 
-        <div class="social-icons">
-            <!-- Add other social media icons or links if desired -->
-            <a href="https://www.linkedin.com/in/bilal-muhammad-62a852255/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
-        </div>
+<!-- Add your skills and tools -->
+### Languages and Tools:
+<p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" title="Flutter" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" title="Dart" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" title="Firebase" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" title="Postman" width="40" height="40"/>
+</p>
+```
 
-        <!-- Add other sections like projects, experiences, etc. -->
-
-    </div>
-</body>
-</html>
+This code includes a LinkedIn badge, improved section headers, and a separator to enhance readability. Additionally, it utilizes CSS styling for better alignment and presentation. You can further customize the styles and layout according to your preferences.
