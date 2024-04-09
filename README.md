@@ -1,26 +1,63 @@
-<!--![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)-->
-<h1 align="center">Hi 👋, I'm Bilal Muhammad</h1>
-<h3 align="center">A passionate Mobile App developer with expertise in Flutter.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://www.websutility.com/new_images/flutter-app-course.gif"> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bilal Muhammad - GitHub Page</title>
+    <!-- Add any other meta tags, stylesheets, or scripts here -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #333;
+        }
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=logoutbye&label=Profile%20views&color=0e75b6&style=flat" alt="logoutbye" /> </p>
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
 
-- 🛠️ I've built a diverse range of apps for [Spider Technology](https://play.google.com/store/apps/dev?id=6910989262027202013)
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-website-a75e2.web.app/#/](https://my-portfolio-website-a75e2.web.app/#/)
+        .badge-container {
+            text-align: center;
+            margin-bottom: 40px;
+        }
 
-- 💬 Ask me about **Flutter**
+        .social-icons {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Hi 👋, I'm Bilal Muhammad</h1>
+            <h3>A passionate Mobile App developer with expertise in Flutter.</h3>
+        </div>
 
-- 📫 How to reach me **muhammadbilal03478@gmail.com**
+        <div class="badge-container">
+            <!-- LinkedIn Badge -->
+            <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="bilal-muhammad-62a852255" data-version="v1">
+                <a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/bilal-muhammad-62a852255?trk=profile-badge">Bilal Muhammad</a>
+            </div>
+            <script async src="https://platform.linkedin.com/badges/js/profile.js" charset="utf-8"></script>
+        </div>
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1o1Dy7k20_loDuFq7bQRmCnustrXwwS9d/edit?usp=sharing&ouid=116692721153719225426&rtpof=true&sd=true](https://docs.google.com/document/d/1o1Dy7k20_loDuFq7bQRmCnustrXwwS9d/edit?usp=sharing&ouid=116692721153719225426&rtpof=true&sd=true)
+        <div class="social-icons">
+            <!-- Add other social media icons or links if desired -->
+            <a href="https://www.linkedin.com/in/bilal-muhammad-62a852255/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
+        </div>
 
-- ⚡ Fun fact **I bring laughter and lightheartedness to my work as a mobile app developer.**
-              
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bilal-muhammad-62a852255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-muhammad-62a852255/" height="30" width="40" /></a>
-</p>
+        <!-- Add other sections like projects, experiences, etc. -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+    </div>
+</body>
+</html>
