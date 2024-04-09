@@ -1,8 +1,7 @@
 <!--![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)-->
 <h1 align="center">Hi 👋, I'm Bilal Muhammad</h1>
 <h3 align="center">A passionate Mobile App developer with expertise in Flutter.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://www.websutility.com/new_images/flutter-app-course.gif"> -->
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<img align="right" alt="Coding" width="400" src="https://www.websutility.com/new_images/flutter-app-course.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logoutbye&label=Profile%20views&color=0e75b6&style=flat" alt="logoutbye" /> </p>
 
@@ -17,7 +16,8 @@
 - 📄 Know about my experiences [https://docs.google.com/document/d/1o1Dy7k20_loDuFq7bQRmCnustrXwwS9d/edit?usp=sharing&ouid=116692721153719225426&rtpof=true&sd=true](https://docs.google.com/document/d/1o1Dy7k20_loDuFq7bQRmCnustrXwwS9d/edit?usp=sharing&ouid=116692721153719225426&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I bring laughter and lightheartedness to my work as a mobile app developer.**
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="logoutbye" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/logoutbye?trk=profile-badge">Bilal Muhammad</a></div>
+              
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bilal-muhammad-62a852255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-muhammad-62a852255/" height="30" width="40" /></a>
