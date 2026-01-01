@@ -1,26 +1,35 @@
-<!--![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)-->
-<h1 align="center">Hi 👋, I'm Bilal Muhammad</h1>
-<h3 align="center">A passionate Mobile App developer with expertise in Flutter.</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://www.websutility.com/new_images/flutter-app-course.gif"> -->
+<h1 align="center">Hey, I’m Bilal 👋</h1>
+<p align="center"><strong>I craft software people actually use.</strong></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=logoutbye&label=Profile%20views&color=0e75b6&style=flat" alt="logoutbye" /> </p>
-
-- 🛠️ I've built a diverse range of apps for [Spider Technology](https://play.google.com/store/apps/dev?id=6910989262027202013)
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-website-a75e2.web.app/#/](https://my-portfolio-website-a75e2.web.app/#/)
-
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **muhammadbilal03478@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1o1Dy7k20_loDuFq7bQRmCnustrXwwS9d/edit?usp=sharing&ouid=116692721153719225426&rtpof=true&sd=true](https://docs.google.com/document/d/1o1Dy7k20_loDuFq7bQRmCnustrXwwS9d/edit?usp=sharing&ouid=116692721153719225426&rtpof=true&sd=true)
-
-- ⚡ Fun fact **I bring laughter and lightheartedness to my work as a mobile app developer.**
-              
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bilal-muhammad-62a852255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bilal-muhammad-62a852255/" height="30" width="40" /></a>
+<p align="center">
+From mobile to backend, web to cloud — I turn ideas into shipped products.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
+
+### What I’m about
+- Product-minded engineer
+- End-to-end builder
+- Clean code, real-world execution
+
+---
+
+### Scope
+AI · Mobile · Web · Backend · Cloud · Desktop · Wearables
+
+---
+
+### Experience
+- ~3 years professional
+- Building and shipping since 2021
+
+---
+
+### Links
+- Portfolio: https://my-portfolio-website-a75e2.web.app/#/
+- Resume: https://docs.google.com/document/d/1o1Dy7k20_loDuFq7bQRmCnustrXwwS9d/edit
+- LinkedIn: https://www.linkedin.com/in/bilal-muhammad-62a852255/
+
+---
+
+<p align="center"><em>Less talk. More building.</em></p>
