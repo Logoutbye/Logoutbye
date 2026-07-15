@@ -41,27 +41,32 @@ INFO = [
     ("__blank__", "", ""),
     ("__section__", "~/stack", ""),
 
-    ("Mobile", "Flutter · Dart · MVVM · Clean Architecture", "val"),
+    ("Mobile", "Flutter · Dart · Clean Architecture · MVVM", "val"),
     ("Backend", "Node.js · Express.js · NestJS · REST APIs", "val"),
-    ("Cloud", "AWS EC2 · S3 · Lambda · Firebase", "val"),
     ("Database", "MongoDB · PostgreSQL · MySQL · SQLite", "val"),
-    ("DevOps", "Linux · Nginx · GitHub Actions", "val"),
+    ("Cloud", "AWS · DigitalOcean · Firebase · VPS Deployment", "val"),
+    ("DevOps", "Linux · Docker · GitHub Actions · CI/CD", "val"),
+
+    ("__blank__", "", ""),
+    ("__section__", "~/experience", ""),
+
+    ("Hifah", "Full-Stack Mobile Developer · Flutter + Node.js", "warn"),
+    ("Apps", "30+ Production Apps Published", "warn"),
+    ("Revenue", "$110k+ Subscription Revenue", "warn"),
 
     ("__blank__", "", ""),
     ("__section__", "~/projects", ""),
 
-    ("Hayafi", "Marriage Platform · Flutter + Node.js", "warn"),
     ("SafeChoice", "AI Product Scanner · $70k+ Revenue", "warn"),
-    ("RevealIt", "Barcode Scanner · $40k+ Revenue", "warn"),
-    ("PakTruck", "Fleet & Logistics Platform", "warn"),
-    ("Aura VPN", "Cross-platform VPN Application", "warn"),
+    ("RevealIt", "AI Barcode Scanner · $40k+ Revenue", "warn"),
+    ("Hayafi", "Marriage Platform · Mobile + Web + Backend", "warn"),
 
     ("__blank__", "", ""),
     ("__section__", "~/highlights", ""),
 
-    ("Award", "High Performer Award (PKR 100,000)", "val"),
-    ("Apps", "30+ Apps Published · 100K+ Downloads", "accent"),
-    ("Revenue", "$110k+ Subscription Revenue", "accent"),
+    ("Award", "High Performer Award · PKR 100,000", "val"),
+    ("Downloads", "100K+ App Downloads", "accent"),
+    ("Backend", "Realtime Systems · Payments · APIs", "accent"),
 
     ("__stats__", "", ""),
 
@@ -71,7 +76,9 @@ INFO = [
     ("Mail", "muhammadbilal03478@gmail.com", "accent"),
     ("Phone", "+92 347 8188144", "accent"),
     ("LinkedIn", "linkedin.com/in/muhammad-bilal", "accent"),
+    ("Github", "github.com/Logoutbye", "accent"),
 ]
+
 
 THEMES = {
     "dark": {
