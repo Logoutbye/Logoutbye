@@ -48,13 +48,6 @@ INFO = [
     ("DevOps", "Linux · Docker · GitHub Actions · CI/CD", "val"),
 
     ("__blank__", "", ""),
-    ("__section__", "~/experience", ""),
-
-    ("Hifah", "Full-Stack Mobile Developer · Flutter + Node.js", "warn"),
-    ("Apps", "30+ Production Apps Published", "warn"),
-    ("Revenue", "$110k+ Subscription Revenue", "warn"),
-
-    ("__blank__", "", ""),
     ("__section__", "~/projects", ""),
 
     ("SafeChoice", "AI Product Scanner · $70k+ Revenue", "warn"),
